@@ -1,2 +1,2 @@
-# -aranoidPlayer
+# πaranoidPlayer
 A HTML project
